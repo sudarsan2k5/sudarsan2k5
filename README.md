@@ -18,7 +18,25 @@ Web Developer 🔥 | IoT Developer⚡| Open Source 🪲 | Hardware ❤️
 A student 👨‍💻 experienced in Web Development 📜, IoT 🌐, and Hardware 🤖, with contributions to popular open-source organizations including [Aesara](https://github.com/aesara-devs/aesara), [PYMC](https://github.com/pymc-devs/), [invesalius](https://github.com/invesalius/invesalius3), [WeBeginners-Community](https://github.com/WeBeginners-Community), [GGExtensions](https://github.com/Sulagna-Dutta-Roy/GGExtensions) by submitting pull requests to fix bugs 🐞, add new features ✨, and improve documentation 📝. I enjoy troubleshooting and repairing hardware 🛠️, creating innovative projects, and am passionate about learning new technologies and solving complex problems 🧩.
 </div>
 
-
+## Few Merged PRs and Continued ❤️🔥 
+<table>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="300">
+    </td>
+    <td>
+      <strong>PR Links</strong><br>
+      <ul>
+        <li><a href="https://github.com/aesara-devs/aesara/pull/1313">Type hint of specify_shape does not allow for None in shape</a></li>
+        <li><a href="https://github.com/aesara-devs/aesara/pull/1432">match NumPy's API</a></li>
+        <li><a href="https://github.com/aesara-devs/aesara/pull/1302">Remove CholeskyGrad Op</a></li>
+        <li><a href="https://github.com/aesara-devs/aesara/pull/1414">Rename true_div to true_divide to match with NumPy</a></li>
+        <li><a href="https://github.com/pymc-devs/pytensor/pull/67">Fix argument name</a></li>
+        <li><a href="https://github.com/pymc-devs/pytensor/pull/228">Rename sgn to sign</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
@@ -34,6 +52,7 @@ A student 👨‍💻 experienced in Web Development 📜, IoT 🌐, and Hardwar
 | Hosting         | <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/> <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white"/> |
 | APIs | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" /> <img src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white" /> <img src="https://img.shields.io/badge/foursquare-3333FF?style=for-the-badge&logo=Unsplash&logoColor=white" /> |
 | Design Tools    | <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> |
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
 
