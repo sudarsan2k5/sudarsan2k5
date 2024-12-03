@@ -27,8 +27,10 @@ A student 👨‍💻 experienced in Web Development 📜, IoT 🌐, and Hardwar
     <td>
       <strong>PR Links</strong><br>
       <ul>
+        <li><a href="https://github.com/omegaup/omegaup/pull/7873">When filling out basic information in the profile, the field that contains errors is not colored </a></li>
         <li><a href="https://github.com/aesara-devs/aesara/pull/1313">Type hint of specify_shape does not allow for None in shape</a></li>
         <li><a href="https://github.com/aesara-devs/aesara/pull/1432">match NumPy's API</a></li>
+        <li><a href="https://github.com/omegaup/omegaup/issues/7893">The "Create Contest" title must be gray like the "Create Course" title</a></li>
         <li><a href="https://github.com/aesara-devs/aesara/pull/1302">Remove CholeskyGrad Op</a></li>
         <li><a href="https://github.com/aesara-devs/aesara/pull/1414">Rename true_div to true_divide to match with NumPy</a></li>
         <li><a href="https://github.com/pymc-devs/pytensor/pull/67">Fix argument name</a></li>
