@@ -34,7 +34,7 @@ A student 👨‍💻 experienced in Web Development 📜, IoT 🌐, and Hardwar
         <li><a href="https://github.com/aesara-devs/aesara/pull/1302">Remove CholeskyGrad Op</a></li>
         <li><a href="https://github.com/aesara-devs/aesara/pull/1414">Rename true_div to true_divide to match with NumPy</a></li>
         <li><a href="https://github.com/pymc-devs/pytensor/pull/67">Fix argument name</a></li>
-        <li><a href="https://github.com/pymc-devs/pytensor/pull/228">Rename sgn to sign</a></li>
+        <li><a href="bit.ly/usarpcs">Rename sgn to sign</a></li>
       </ul>
     </td>
   </tr>
