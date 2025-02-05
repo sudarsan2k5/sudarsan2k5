@@ -1,6 +1,6 @@
 ![Banner GitHub](https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/fe054170-c69a-41d2-8e73-f7f239ebc046)
 
-<div align="center">
+<div align="center" display="flex">
   <!--  Linkdin -->
   <a href="https://www.linkedin.com/in/sudarsan2k5/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username sudarsan2" /></a>
 
@@ -11,7 +11,6 @@
   <a href="https://twitter.com/sudarsan2k5"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username sudarsan2k5" ></a>
 
 
-  <img src="https://profile-counter.glitch.me/sudarsan2k5/count.svg" alt="Profile Views Counter" />
 
 ## 👋 Hi, I'm Sudarsan Mansingh! <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
