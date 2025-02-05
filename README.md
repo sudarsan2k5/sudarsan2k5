@@ -11,8 +11,7 @@
   <a href="https://twitter.com/sudarsan2k5"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username sudarsan2k5" ></a>
 
 
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsudarsan2k5&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views Counter"/>
-</div>
+  <img src="https://profile-counter.glitch.me/sudarsan2k5/count.svg" alt="Profile Views Counter" />
 
 ## 👋 Hi, I'm Sudarsan Mansingh! <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
