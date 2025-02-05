@@ -1,16 +1,17 @@
 ![Banner GitHub](https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/fe054170-c69a-41d2-8e73-f7f239ebc046)
 
-<div>
+<div align="center">
   <!--  Linkdin -->
   <a href="https://www.linkedin.com/in/sudarsan2k5/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username sudarsan2" /></a>
-
-  <img src="https://profile-counter.glitch.me/sudarsan2k5/count.svg" alt="Profile Views Counter" />
+  <!--  Email -->
+  <a href="mailto:sudarsan2k5@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of sudarsan i.e.   sudarsan2k5@gmail.com" /></a>
   <!--  Discord -->
-
+<!--   <a href="https://discordapp.com/users/776749637826117640"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="profile of Discord with username anmol_baranwal(Anmol#7140)" ></a> -->
   <!--  twitter -->
-  <a href="https://twitter.com/sudarsan2k5"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username sudarsan2k5" ></a>
+  <a href="https://twitter.com/sudarsan2k5"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username sudarsan2k5" /></a>
 
-</div>
+  <!-- Profile Views Counter -->
+  <img src="https://profile-counter.glitch.me/sudarsan2k5/count.svg" alt="Profile Views Counter" style="vertical-align: middle; margin-left: 5px;" />
 
 ## 👋 Hi, I'm Sudarsan Mansingh! <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -86,10 +87,10 @@ A student 👨‍💻 experienced in Web Development 📜, IoT 🌐, and Hardwar
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
