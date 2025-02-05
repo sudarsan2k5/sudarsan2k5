@@ -10,6 +10,10 @@
   <!--  twitter -->
   <a href="https://twitter.com/sudarsan2k5"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username sudarsan2k5" ></a>
 
+    <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=sudarsan2k5&color=brightgreen" alt="watching_count" />
+</div>
+
 ## 👋 Hi, I'm Sudarsan Mansingh! <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ### Bit Summery About Me :)
