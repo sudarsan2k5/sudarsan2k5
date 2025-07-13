@@ -2,7 +2,7 @@
 
 <div align="center">
   <!--  Linkdin -->
-  <a href="https://www.linkedin.com/in/sudarsan2k5/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username sudarsan2k5" /></a>
+  <a href="https://www.linkedin.com/in/sudarsan2k5/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username sudarsan2k5" style="vertical-align: middle; margin-left: 5px; margin-right: 5px;" /></a>
   
   <!--  twitter -->
   <!-- <img src="https://profile-counter.glitch.me/sudarsan2k5/count.svg" alt="Profile Views Counter" style="vertical-align: middle; margin-left: 5px; margin-right: 5px;" /> -->
